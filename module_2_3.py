@@ -16,7 +16,7 @@ while i < len(my_list) - 1:
     i += 1
     if my_list[i] > 0:
         print(my_list[i])
-    elif my_list[i]== 0:
+    elif my_list[i] == 0:
         continue
     else:
         break
